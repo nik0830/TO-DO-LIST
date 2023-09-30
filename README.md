@@ -9,9 +9,9 @@ In this TODO LIST we can
   when completed
 
 # Technologies used:
-HTML
-CSS
-JavaScript
+1. HTML
+2. CSS
+3. JavaScript
 
 ## 🚀 About Me
 I'm Nikhil Kumar currently pursuing BTECH in COMPUTER SCIENCE AND ENGINEERING from BIT MESRA. 
