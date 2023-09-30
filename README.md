@@ -2,7 +2,11 @@
 ToDo list is a simple web application to save Your daily tasks in order not to miss anything.
 
 # Features
-In this TODO LIST we can add task as much as i can and delete the task when complete
+In this TODO LIST we can
+1. ADD TASK
+ As much as we can
+2. DELETE TASK
+  when completed
 
 # Technologies used:
 HTML
